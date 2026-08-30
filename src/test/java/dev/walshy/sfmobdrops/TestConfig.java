@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-import be.seeseemelk.mockbukkit.MockBukkit;
+import org.mockbukkit.mockbukkit.MockBukkit;
 import dev.walshy.sfmobdrops.drops.MobDrop;
 import dev.walshy.sfmobdrops.drops.Drop;
 import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
